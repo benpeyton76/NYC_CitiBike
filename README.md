@@ -1,8 +1,10 @@
-# NYC_CitiBike
+#NYC_CitiBike
 
 Overview:
 
 The purpose of this project is to build visualizations for a group of investors that want to explore the possibility of starting a CitiBike business in Des Moines, IA. The investors asked a team to research CitiBike data from New York City to see if CitiBike in Des Moines is a viable venture for them. By using the NYC CitiBike data in Tableau, we are able to help the investors visualize pertinent data in a way that is to the point and easy to comprehend. By using all of the data from NYC, we will be able to help the investors decide whether they think Des Moines CitiBike is the way to go. 
+
+Please view the Tableau Story from [here](https://public.tableau.com/views/Module14Deliverables_16396007218630/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 Results:
 
